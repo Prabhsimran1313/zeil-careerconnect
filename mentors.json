@@ -1,0 +1,58 @@
+
+[
+  {
+    "id": 1,
+    "name": "James Wilson",
+    "role": "Senior Data Engineer",
+    "company": "Demo Technology Company",
+    "experience": 7,
+    "skills": ["Python", "SQL", "Snowflake", "dbt", "AWS", "ETL", "Data Modelling"],
+    "specialisation": "Data Engineering",
+    "price_nzd": 40,
+    "slots": ["Monday 6 PM", "Tuesday 7 PM"]
+  },
+  {
+    "id": 2,
+    "name": "Sarah Thompson",
+    "role": "Senior Data Analyst",
+    "company": "Demo Analytics Company",
+    "experience": 6,
+    "skills": ["SQL", "Power BI", "Excel", "Python", "Statistics", "Data Visualisation"],
+    "specialisation": "Data Analytics",
+    "price_nzd": 35,
+    "slots": ["Wednesday 5 PM", "Friday 6 PM"]
+  },
+  {
+    "id": 3,
+    "name": "Priya Sharma",
+    "role": "AI Engineer",
+    "company": "Demo AI Company",
+    "experience": 5,
+    "skills": ["Python", "Machine Learning", "NLP", "LLMs", "PyTorch", "TensorFlow"],
+    "specialisation": "Artificial Intelligence",
+    "price_nzd": 45,
+    "slots": ["Monday 5 PM", "Thursday 6 PM"]
+  },
+  {
+    "id": 4,
+    "name": "Michael Chen",
+    "role": "Senior Software Engineer",
+    "company": "Demo Software Company",
+    "experience": 8,
+    "skills": ["JavaScript", "React", "Node.js", "REST APIs", "Python", "System Design"],
+    "specialisation": "Software Engineering",
+    "price_nzd": 40,
+    "slots": ["Tuesday 5 PM", "Saturday 11 AM"]
+  },
+  {
+    "id": 5,
+    "name": "Emma Brown",
+    "role": "Senior Business Analyst",
+    "company": "Demo Consulting Company",
+    "experience": 6,
+    "skills": ["Business Analysis", "Agile", "Scrum", "SQL", "Stakeholder Management", "Requirements Gathering"],
+    "specialisation": "Business Analysis",
+    "price_nzd": 35,
+    "slots": ["Wednesday 6 PM", "Saturday 10 AM"]
+  }
+]
