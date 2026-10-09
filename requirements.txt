@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+google-genai>=2.29,<3
+pydantic>=2,<3
+python-dotenv>=1,<2
+pandas>=2,<4
+tzdata>=2025.1
+altair>=5,<7

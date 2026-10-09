@@ -1,0 +1,14 @@
+[
+  {"input":"Python and SQL validation", "mentor_id":1, "expected_match":true},
+  {"input":"Build data pipelines", "mentor_id":1, "expected_match":true},
+  {"input":"Learn dbt transformations", "mentor_id":1, "expected_match":true},
+  {"input":"Data visualization dashboards", "mentor_id":2, "expected_match":true},
+  {"input":"Power BI reporting", "mentor_id":2, "expected_match":true},
+  {"input":"Large language models", "mentor_id":3, "expected_match":true},
+  {"input":"ML experiments", "mentor_id":3, "expected_match":true},
+  {"input":"HTML and CSS", "mentor_id":3, "expected_match":false},
+  {"input":"React frontend development", "mentor_id":4, "expected_match":true},
+  {"input":"Cross-functional stakeholder collaboration", "mentor_id":5, "expected_match":true},
+  {"input":"Engineering metadata migration in Siemens Teamcenter", "mentor_id":6, "expected_match":true},
+  {"input":"Nursing and patient care", "mentor_id":1, "expected_match":false}
+]

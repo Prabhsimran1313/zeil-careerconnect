@@ -1,0 +1,116 @@
+{
+  "scope": "Deterministic mentor matching, not LLM quality",
+  "count": 12,
+  "baseline_correct": 2,
+  "improved_correct": 12,
+  "cases": [
+    {
+      "input": "Python and SQL validation",
+      "mentor_id": 1,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Build data pipelines",
+      "mentor_id": 1,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Learn dbt transformations",
+      "mentor_id": 1,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Data visualization dashboards",
+      "mentor_id": 2,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Power BI reporting",
+      "mentor_id": 2,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Large language models",
+      "mentor_id": 3,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "ML experiments",
+      "mentor_id": 3,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "HTML and CSS",
+      "mentor_id": 3,
+      "expected_match": false,
+      "baseline_match": false,
+      "improved_match": false,
+      "baseline_pass": true,
+      "improved_pass": true
+    },
+    {
+      "input": "React frontend development",
+      "mentor_id": 4,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Cross-functional stakeholder collaboration",
+      "mentor_id": 5,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Engineering metadata migration in Siemens Teamcenter",
+      "mentor_id": 6,
+      "expected_match": true,
+      "baseline_match": false,
+      "improved_match": true,
+      "baseline_pass": false,
+      "improved_pass": true
+    },
+    {
+      "input": "Nursing and patient care",
+      "mentor_id": 1,
+      "expected_match": false,
+      "baseline_match": false,
+      "improved_match": false,
+      "baseline_pass": true,
+      "improved_pass": true
+    }
+  ]
+}
